@@ -2,11 +2,11 @@
 
 Local run (for testing):
 
-# powershell
+```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-streamlit run App.py
+```streamlit run App.py
 
 
 # Sample Output
