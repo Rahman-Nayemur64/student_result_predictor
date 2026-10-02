@@ -1,5 +1,6 @@
 # Student Result Prediction
 
+## APP
 https://studentresultpredictor-p6exfbg5cqw9p4zs4zqcoa.streamlit.app/
 
 Local run (for testing):
